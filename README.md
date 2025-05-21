@@ -14,7 +14,7 @@
 
 下图为动态显示在深度学习训练过程中多项式逐渐逼近真值曲线！
 
-![polyfit](https://github.com/user-attachments/assets/bc319833-761c-462f-ad5c-e82393490496)
+![polyfit](https://github.com/user-attachments/assets/89fdcee7-5d32-4a7f-95b3-188b25874013)
 
 ## 使用简单的自定义操作符
 
