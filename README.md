@@ -238,5 +238,12 @@ end
 ```
 ------
 
+## 使用自定义的Layer
+
+自定义可学习参数，参数量较少，使用LM算法：
+
+可以参阅这个帖子： https://www.mathworks.com/matlabcentral/discussions/tips/883587-using-the-levenberg-marquardt-optimizer-in-deep-learning
+
+
 
 
